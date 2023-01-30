@@ -31,10 +31,11 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)][def2]
 
 > А это я жду, когда меня позовут на собес и дадут поработать
-[![Waiting]()][def5]
+>
+![Waiting](https://github.com/MaraJan/MaraJan/blob/main/giphy.gif)
 
 [def]: https://t.me/margosulia 
 [def2]: http://www.linkedin.com/in/margarita-zhangurazova
 [def3]: https://leetcode.com/MaraJan/
 [def4]: https://github.com/MaraJan/postman_collections
-[def5]: 
+[def5]: https://github.com/MaraJan/MaraJan/blob/main/giphy.gif
