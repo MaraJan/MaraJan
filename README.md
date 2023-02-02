@@ -30,12 +30,11 @@
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)][def]
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)][def2]
 
-> А это я жду, когда меня позовут на собес и дадут поработать
+> Ищу работу, активно рассылаю резюме на позицию QA Engineer
 >
-![Waiting](https://github.com/MaraJan/MaraJan/blob/main/giphy.gif)
+![Waiting](https://github.com/MaraJan/MaraJan/blob/7d3cb213fcf61938dfead54c738bb8d1747b5f33/2GU.gif)
 
 [def]: https://t.me/margosulia 
 [def2]: http://www.linkedin.com/in/margarita-zhangurazova
 [def3]: https://leetcode.com/MaraJan/
 [def4]: https://github.com/MaraJan/postman_collections
-[def5]: https://github.com/MaraJan/MaraJan/blob/main/giphy.gif
